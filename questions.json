@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the supreme law of the land?",
+    "answers": ["the Constitution"],
+    "explanation_fr": "La Constitution est le texte fondamental des États-Unis. Toutes les lois doivent la respecter."
+  },
+  {
+    "id": 2,
+    "question": "What does the Constitution do?",
+    "answers": ["sets up the government", "defines the government", "protects basic rights of Americans"],
+    "explanation_fr": "La Constitution organise le gouvernement et protège les droits fondamentaux des citoyens."
+  },
+  {
+    "id": 3,
+    "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+    "answers": ["We the People"],
+    "explanation_fr": "Ces mots signifient que le pouvoir vient du peuple."
+  },
+  {
+    "id": 4,
+    "question": "What is an amendment?",
+    "answers": ["a change to the Constitution", "an addition to the Constitution"],
+    "explanation_fr": "Un amendement est une modification ou un ajout à la Constitution."
+  },
+  {
+    "id": 5,
+    "question": "What do we call the first ten amendments to the Constitution?",
+    "answers": ["the Bill of Rights"],
+    "explanation_fr": "Le Bill of Rights protège les libertés fondamentales des citoyens."
+  },
+  {
+    "id": 6,
+    "question": "Who is in charge of the executive branch?",
+    "answers": ["the President"],
+    "explanation_fr": "Le Président dirige le pouvoir exécutif."
+  },
+  {
+    "id": 7,
+    "question": "Who makes federal laws?",
+    "answers": ["Congress", "Senate and House of Representatives"],
+    "explanation_fr": "Le Congrès est composé du Sénat et de la Chambre des représentants."
+  },
+  {
+    "id": 8,
+    "question": "What are the two parts of the U.S. Congress?",
+    "answers": ["the Senate and House of Representatives"],
+    "explanation_fr": "Le Congrès est bicaméral : Sénat + Chambre des représentants."
+  },
+  {
+    "id": 9,
+    "question": "How many U.S. Senators are there?",
+    "answers": ["one hundred", "100"],
+    "explanation_fr": "Chaque État a deux sénateurs, donc 50 États × 2 = 100."
+  },
+  {
+    "id": 10,
+    "question": "We elect a President for how many years?",
+    "answers": ["four years"],
+    "explanation_fr": "Le mandat présidentiel est de quatre ans."
+  }
+]
