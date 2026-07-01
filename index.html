@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CitizenPrep</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="app">
+
+    <header class="header">
+      <div class="title">🇺🇸 CitizenPrep</div>
+      <div class="subtitle">USCIS Civics Test Trainer</div>
+
+      <div class="progress-bar">
+        <div id="progressFill"></div>
+      </div>
+
+      <div class="progress-text" id="progressText"></div>
+    </header>
+
+    <main class="card">
+
+      <div id="screen">
+
+        <div class="question" id="question">Loading...</div>
+
+        <button id="showAnswerBtn" class="primary-btn">
+          Show Answer
+        </button>
+
+        <div id="answerSection" class="hidden">
+
+          <div class="answer-title">Answer</div>
+          <div id="answer" class="answer"></div>
+
+          <div class="fr-title">Explication (FR)</div>
+          <div id="explanation" class="explanation"></div>
+
+          <div class="rating-title">How did you do?</div>
+
+          <div class="ratings">
+            <button data-score="0">😞 Didn't know</button>
+            <button data-score="1">🙂 Difficult</button>
+            <button data-score="2">😀 Easy</button>
+          </div>
+
+        </div>
+
+      </div>
+
+    </main>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
